@@ -16,7 +16,7 @@ Aerospace
    └── Materials
 ```
 ## milestone
-##What am I building or understanding this week that is worth showing?
+What am I building or understanding this week that is worth showing?
 ```text 
                 PROJECT
                    │
