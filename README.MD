@@ -34,11 +34,11 @@ What am I building or understanding this week that is worth showing?
                    
                    
              ONE ENGINEERING PROJECT
-                      │
+                        │
           ┌───────────┴───────────┐
-          ↓                       ↓
-      ENGINEERING              CONTENT
-          │                       │
+          ↓                           ↓
+      ENGINEERING                  CONTENT
+          │                           │
           └───────────┬───────────┘
-                      ↓
-                  YOUTUBE```
+                        ↓
+                     YOUTUBE```
